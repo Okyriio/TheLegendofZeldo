@@ -3,77 +3,72 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+public enum PlayserState
+{
+    Walk,
+    Attack,
+    Interact
+}
 public class LinkMovement : MonoBehaviour
 {
-    [SerializeField]  float speed;
-    private Vector2 _direction;
-    private Vector2 _targetPos;
+    public PlayserState currentState;
+    [SerializeField] private float speed;
+    private Rigidbody2D _myRigidbody;
+    private Vector3 _change;
     private Animator _animator;
-    private const float DashRange = 1.4f;
-    private enum Facing
-    {
-        UP,
-        DOWN,
-        LEFT,
-        RIGHT
-    };
 
-    private Facing _facingDir = Facing.DOWN;
-    
     void Start()
     {
+        currentState = PlayserState.Walk;
         _animator = GetComponent<Animator>();
-    }
-    void Update()
-    {
-        TakeInput();
-        Move();
+        _myRigidbody = GetComponent<Rigidbody2D>();
     }
 
-    private void Move() //Moves the player
+    void Update()
     {
-        transform.Translate(_direction * (speed * Time.deltaTime));
-        if (_direction.x != 0 || _direction.y != 0)                          // PUT DEADZONE HERE
+       _change = Vector3.zero;
+       _change.x = Input.GetAxisRaw("Horizontal");
+       _change.y = Input.GetAxisRaw("Vertical");
+       if (Input.GetButtonDown("attack") && currentState != PlayserState.Attack)
+       {
+           StartCoroutine(AttackCo());
+       }
+       if (currentState == PlayserState.Walk)
+       {
+           UpdateAnimationAndMove();
+       }    
+
+    }
+
+    private IEnumerator AttackCo()
+    {
+        _animator.SetBool("Attacking", (true));
+        currentState = PlayserState.Attack;
+        yield return null;
+        _animator.SetBool("Attacking", (false));
+        yield return new WaitForSeconds(0.10f);
+        currentState = PlayserState.Walk;
+    }
+
+    void UpdateAnimationAndMove()
+    {
+        if (_change != Vector3.zero)
         {
-              SetAnimatorMove(_direction);
+            MoveCharacter();
+            _animator.SetFloat("xDir", _change.x);
+            _animator.SetFloat("yDir", _change.y);
+            _animator.SetBool("Moving", true);
         }
         else
         {
-            _animator.SetLayerWeight(1,0);
+            _animator.SetBool("Moving", false);
         }
     }
 
-    private void TakeInput() // Takes input to move the player
+    
+    void MoveCharacter()
     {
-        _direction = Vector2.zero;
-        if (Input.GetKey(KeyCode.W))
-        {
-          _direction += Vector2.up;
-          _facingDir = Facing.UP;
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            _direction += Vector2.down; 
-            _facingDir = Facing.DOWN;
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            _direction += Vector2.left; 
-            _facingDir = Facing.LEFT;
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            _direction += Vector2.right; 
-            _facingDir = Facing.RIGHT;
-        }
-        
-    }
-
-    private void SetAnimatorMove(Vector2 _direction)
-    {
-        _animator.SetLayerWeight(1,1);
-        _animator.SetFloat("xDir", _direction.x);
-        _animator.SetFloat("yDir", _direction.y);
-
+        _myRigidbody.MovePosition(transform.position + _change * (speed * Time.deltaTime));
     }
 }
+
