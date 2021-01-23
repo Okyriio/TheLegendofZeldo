@@ -33,7 +33,7 @@ public class LinkMovement : MonoBehaviour
        {
            StartCoroutine(AttackCo());
        }
-       if (currentState == PlayserState.Walk)
+       else if (currentState == PlayserState.Walk)
        {
            UpdateAnimationAndMove();
        }    
@@ -46,7 +46,7 @@ public class LinkMovement : MonoBehaviour
         currentState = PlayserState.Attack;
         yield return null;
         _animator.SetBool("Attacking", (false));
-        yield return new WaitForSeconds(0.10f);
+        yield return new WaitForSeconds(0.3f);
         currentState = PlayserState.Walk;
     }
 
