@@ -11,7 +11,7 @@ public enum PlayserState
 }
 public class LinkMovement : MonoBehaviour
 {
-    public PlayserState currentState;
+    private PlayserState currentState;
     [SerializeField] private float speed;
     private Rigidbody2D _myRigidbody;
     private Vector3 _change;
