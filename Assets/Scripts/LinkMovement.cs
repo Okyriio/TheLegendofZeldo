@@ -26,7 +26,7 @@ public class LinkMovement : MonoBehaviour
 
     void Update()
     {
-       _change = Vector3.zero;
+        _change = Vector3.zero;
        _change.x = Input.GetAxisRaw("Horizontal");
        _change.y = Input.GetAxisRaw("Vertical");
        if (Input.GetButtonDown("attack") && currentState != PlayserState.Attack)
@@ -71,4 +71,3 @@ public class LinkMovement : MonoBehaviour
         _myRigidbody.MovePosition(transform.position + _change * (speed * Time.deltaTime));
     }
 }
-

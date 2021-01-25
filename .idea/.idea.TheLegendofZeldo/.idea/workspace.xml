@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="716b67b6-441d-4193-8eb9-4d3b6dd5dcf9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/wolrd sprite/tiles-overworld.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/wolrd sprite/tiles-overworld.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MAin.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MAin.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LinkMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LinkMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheLegendofZeldo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TheLegendofZeldo.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611415697863</updated>
-      <workItem from="1611415702751" duration="9936000" />
+      <workItem from="1611415702751" duration="10884000" />
+      <workItem from="1611578001503" duration="2157000" />
     </task>
     <servers />
   </component>
@@ -95,8 +102,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611584505919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611584505919" />
   </component>
 </project>
