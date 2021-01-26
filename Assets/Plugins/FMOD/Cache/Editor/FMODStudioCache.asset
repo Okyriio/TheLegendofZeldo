@@ -15,11 +15,11 @@ MonoBehaviour:
   Path: ../FMOD Studio/legendofzeldo/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637472727535749142
+  lastModified: 637472782535160729
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 874
+    Value: 930
   Exists: 1
 --- !u!114 &-4459001963167825699
 MonoBehaviour:
@@ -39,7 +39,7 @@ MonoBehaviour:
   - {fileID: -4204679687926388280}
   IsStream: 1
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0
@@ -59,10 +59,33 @@ MonoBehaviour:
   Path: ../FMOD Studio/legendofzeldo/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637472727535729140
+  lastModified: 637472782535140739
   LoadResult: 0
   FileSizes: []
   Exists: 1
+--- !u!114 &-1222437022482304015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Actions/LOZ_Get_Rupee
+  m_EditorClassIdentifier: 
+  Path: event:/Actions/LOZ_Get_Rupee
+  guid: 2577c63542920b46806485077598ed54
+  Banks:
+  - {fileID: -4204679687926388280}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82,12 +105,13 @@ MonoBehaviour:
   - {fileID: 8512955458493042111}
   - {fileID: 7697441146793150304}
   - {fileID: -4459001963167825699}
+  - {fileID: -1222437022482304015}
   EditorParameters: []
   MasterBanks:
   - {fileID: -4204679687926388280}
   StringsBanks:
   - {fileID: -9156355333282012017}
-  stringsBankWriteTime: 637472727535749142
+  stringsBankWriteTime: 637472782535160729
   cacheVersion: 6
 --- !u!114 &7697441146793150304
 MonoBehaviour:
@@ -107,7 +131,7 @@ MonoBehaviour:
   - {fileID: -4204679687926388280}
   IsStream: 1
   Is3D: 0
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters: []
   MinDistance: 0
   MaxDistance: 0

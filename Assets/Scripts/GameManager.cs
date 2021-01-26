@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
 
     public void StartGame()
     {
+        FMODUnity.RuntimeManager.PlayOneShot("event:/Actions/LOZ_Get_Rupee");
         SceneManager.LoadScene("MAin");
     }
     public void ExitGame()
