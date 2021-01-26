@@ -11,7 +11,7 @@ public enum PlayserState
 }
 public class LinkMovement : MonoBehaviour
 {
-    private PlayserState currentState;
+    private PlayserState _currentState;
     [SerializeField] private float speed;
     private Rigidbody2D _myRigidbody;
     private Vector3 _change;
@@ -19,7 +19,7 @@ public class LinkMovement : MonoBehaviour
 
     void Start()
     {
-        currentState = PlayserState.Walk;
+        _currentState = PlayserState.Walk;
         _animator = GetComponent<Animator>();
         _myRigidbody = GetComponent<Rigidbody2D>();
     }
@@ -29,11 +29,11 @@ public class LinkMovement : MonoBehaviour
         _change = Vector3.zero;
        _change.x = Input.GetAxisRaw("Horizontal");
        _change.y = Input.GetAxisRaw("Vertical");
-       if (Input.GetButtonDown("attack") && currentState != PlayserState.Attack)
+       if (Input.GetButtonDown("attack") && _currentState != PlayserState.Attack)
        {
            StartCoroutine(AttackCo());
        }
-       else if (currentState == PlayserState.Walk)
+       else if (_currentState == PlayserState.Walk)
        {
            UpdateAnimationAndMove();
        }    
@@ -43,11 +43,11 @@ public class LinkMovement : MonoBehaviour
     private IEnumerator AttackCo()
     {
         _animator.SetBool("Attacking", (true));
-        currentState = PlayserState.Attack;
+        _currentState = PlayserState.Attack;
         yield return null;
         _animator.SetBool("Attacking", (false));
         yield return new WaitForSeconds(0.3f);
-        currentState = PlayserState.Walk;
+        _currentState = PlayserState.Walk;
     }
 
     void UpdateAnimationAndMove()

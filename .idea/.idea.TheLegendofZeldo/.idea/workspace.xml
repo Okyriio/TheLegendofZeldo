@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="716b67b6-441d-4193-8eb9-4d3b6dd5dcf9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLegendofZeldo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/wolrd sprite/tiles-overworld.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/wolrd sprite/tiles-overworld.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MAin.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MAin.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/LinkMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LinkMovement.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TheLegendofZeldo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TheLegendofZeldo.sln" afterDir="false" />
     </list>
@@ -83,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1611415697863</updated>
       <workItem from="1611415702751" duration="10884000" />
-      <workItem from="1611578001503" duration="2157000" />
+      <workItem from="1611578001503" duration="3967000" />
+      <workItem from="1611670981208" duration="60000" />
     </task>
     <servers />
   </component>
