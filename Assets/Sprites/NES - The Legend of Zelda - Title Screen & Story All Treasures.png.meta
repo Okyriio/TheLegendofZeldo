@@ -1,7 +1,535 @@
 fileFormatVersion: 2
 guid: 72531e2262439ff4097ed7e9e75f2ae0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8287855195078922512
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_0
+  - first:
+      213: -8228743283443821267
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_1
+  - first:
+      213: -534217398457766460
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_2
+  - first:
+      213: -5139048230190919329
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_3
+  - first:
+      213: 6134814298263602354
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_4
+  - first:
+      213: 1733639579107560206
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_5
+  - first:
+      213: -8605094442011742429
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_6
+  - first:
+      213: -1042373560024976961
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_7
+  - first:
+      213: 5670815996523029579
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_8
+  - first:
+      213: 4751478377216588352
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_9
+  - first:
+      213: 647064414922821389
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_10
+  - first:
+      213: -9215776406503019987
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_11
+  - first:
+      213: -527547931065049814
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_12
+  - first:
+      213: -5083225675059555400
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_13
+  - first:
+      213: -9511149726851832
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_14
+  - first:
+      213: -1165381420400957620
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_15
+  - first:
+      213: 2618743463292976645
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_16
+  - first:
+      213: 2686574012647392188
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_17
+  - first:
+      213: -8270619029691973
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_18
+  - first:
+      213: -3628824754872047141
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_19
+  - first:
+      213: 1738686464645813117
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_20
+  - first:
+      213: 7195424775958493939
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_21
+  - first:
+      213: 1809045656740614818
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_22
+  - first:
+      213: 6842076865635565899
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_23
+  - first:
+      213: 6959184622610563334
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_24
+  - first:
+      213: 301206410830916514
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_25
+  - first:
+      213: -7335933328522454563
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_26
+  - first:
+      213: -5575197943262260949
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_27
+  - first:
+      213: -1709253703624450490
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_28
+  - first:
+      213: -6632501154214325306
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_29
+  - first:
+      213: -564375200403884721
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_30
+  - first:
+      213: 7006303705276780500
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_31
+  - first:
+      213: -3008294372900694822
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_32
+  - first:
+      213: 1330041454890297775
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_33
+  - first:
+      213: -8933581587086887738
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_34
+  - first:
+      213: -2581785960980116528
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_35
+  - first:
+      213: 7136070058001717125
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_36
+  - first:
+      213: -3046333406677793398
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_37
+  - first:
+      213: 442194976999839028
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_38
+  - first:
+      213: 5242138180714525042
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_39
+  - first:
+      213: -9087407352974835506
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_40
+  - first:
+      213: -3779296609459999192
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_41
+  - first:
+      213: 8679212232888382324
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_42
+  - first:
+      213: 8218245006644623343
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_43
+  - first:
+      213: -5184270505075536262
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_44
+  - first:
+      213: 117589006075919829
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_45
+  - first:
+      213: 6013977637709053828
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_46
+  - first:
+      213: -5580196776927238707
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_47
+  - first:
+      213: 3251028060342992123
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_48
+  - first:
+      213: 5004264329979033103
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_49
+  - first:
+      213: 3805539400926646177
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_50
+  - first:
+      213: 726483833440907283
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_51
+  - first:
+      213: 1007627252752275281
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_52
+  - first:
+      213: 1170213667853456757
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_53
+  - first:
+      213: -5522235733099807674
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_54
+  - first:
+      213: -6512548700898782624
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_55
+  - first:
+      213: 4254691324225118939
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_56
+  - first:
+      213: -3594074257506034750
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_57
+  - first:
+      213: 8916115752604685934
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_58
+  - first:
+      213: -8243789534917801366
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_59
+  - first:
+      213: -4592304835308608860
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_60
+  - first:
+      213: -1571594477100623724
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_61
+  - first:
+      213: 1093791781618852187
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_62
+  - first:
+      213: 6992408914299602199
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_63
+  - first:
+      213: 1086006514713039146
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_64
+  - first:
+      213: -2047442430549413437
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_65
+  - first:
+      213: 7393703001846650485
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_66
+  - first:
+      213: -1453116548584854956
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_67
+  - first:
+      213: 4524147201133226933
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_68
+  - first:
+      213: 8038771661937778047
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_69
+  - first:
+      213: -7268088803449533136
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_70
+  - first:
+      213: -8347235540111987674
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_71
+  - first:
+      213: 7404200172966153654
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_72
+  - first:
+      213: -1091158451901074678
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_73
+  - first:
+      213: -1419441533108801740
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_74
+  - first:
+      213: 3733075705621193078
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_75
+  - first:
+      213: 108381541441806721
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_76
+  - first:
+      213: 2184338014578603226
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_77
+  - first:
+      213: -514147022611638716
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_78
+  - first:
+      213: -7501825405632904176
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_79
+  - first:
+      213: 1135326832661381300
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_80
+  - first:
+      213: 471376731443979577
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_81
+  - first:
+      213: -2132436307647756209
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_82
+  - first:
+      213: -3095219086751073903
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_83
+  - first:
+      213: 5569704537335551270
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_84
+  - first:
+      213: 8713570996674962325
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_85
+  - first:
+      213: -505820925174913258
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_86
+  - first:
+      213: -646279997584271417
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_87
+  - first:
+      213: 4858991641812023052
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_88
+  - first:
+      213: 3760196220201848484
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_89
+  - first:
+      213: -2219461743039517515
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_90
+  - first:
+      213: 3565835714259490039
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_91
+  - first:
+      213: -4473304098350087924
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_92
+  - first:
+      213: 7931510494608307045
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_93
+  - first:
+      213: 6701252556248392417
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_94
+  - first:
+      213: -767247706834571297
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_95
+  - first:
+      213: 2141247110499418405
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_96
+  - first:
+      213: -6382312544485243996
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_97
+  - first:
+      213: 8109534605760479191
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_98
+  - first:
+      213: -3512510123404172326
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_99
+  - first:
+      213: -7597066028195362726
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_100
+  - first:
+      213: 3652600868844201099
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_101
+  - first:
+      213: 5341487961437840627
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_102
+  - first:
+      213: -7159898433924213237
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_103
+  - first:
+      213: 3013645768093705271
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_104
+  - first:
+      213: -5662254300213288895
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_105
+  - first:
+      213: -587334446520718450
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_106
+  - first:
+      213: 8732351278433002263
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_107
+  - first:
+      213: 8302028302872775609
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_108
+  - first:
+      213: 5772377327974732952
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_109
+  - first:
+      213: 7949114532709446480
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_110
+  - first:
+      213: 7669900869158455835
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_111
+  - first:
+      213: -8251987569784614769
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_112
+  - first:
+      213: 6583104765577297684
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_113
+  - first:
+      213: 1439839042931856053
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_114
+  - first:
+      213: -1090266023937261569
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_115
+  - first:
+      213: -5792643594233475899
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_116
+  - first:
+      213: -8510937611708340615
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_117
+  - first:
+      213: -6240046710821803195
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_118
+  - first:
+      213: -903847903294848630
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_119
+  - first:
+      213: -610910568532481241
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_120
+  - first:
+      213: 6362398296928968683
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_121
+  - first:
+      213: 351243764694368631
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_122
+  - first:
+      213: 3764360472958058604
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_123
+  - first:
+      213: 2344082539819419023
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_124
+  - first:
+      213: 4585401703334338460
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_125
+  - first:
+      213: 7318992400227315542
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_126
+  - first:
+      213: -5932807279480129971
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_127
+  - first:
+      213: 3715607098538771251
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_128
+  - first:
+      213: 6165739647036485830
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_129
+  - first:
+      213: 8133954109594302624
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_130
+  - first:
+      213: 7029047408974226830
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_131
+  - first:
+      213: 3621828402836795244
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_132
+  - first:
+      213: 5406715033753932039
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_133
+  - first:
+      213: -7806767958963528529
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_134
+  - first:
+      213: -3761393146133146842
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_135
+  - first:
+      213: -2663325096309371609
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_136
+  - first:
+      213: 3757289264649753990
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_137
+  - first:
+      213: 5010803527991210413
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_138
+  - first:
+      213: 2599692897356053680
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_139
+  - first:
+      213: 3782620274025865039
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_140
+  - first:
+      213: 315575152738616149
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_141
+  - first:
+      213: -5547113442694420940
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_142
+  - first:
+      213: -4130572432651585470
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_143
+  - first:
+      213: 877883034382036083
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_144
+  - first:
+      213: -1252723741009753743
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_145
+  - first:
+      213: -3013232043234251555
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_146
+  - first:
+      213: 7009637462602518979
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_147
+  - first:
+      213: 4345356335240882508
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_148
+  - first:
+      213: -7739080819819750034
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_149
+  - first:
+      213: 7329188320918725634
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_150
+  - first:
+      213: 6745309053453562560
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_151
+  - first:
+      213: -1418854859048222362
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_152
+  - first:
+      213: -3709698461638639210
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_153
+  - first:
+      213: -7275984501016904683
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_154
+  - first:
+      213: 423374505977241189
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_155
+  - first:
+      213: 2650695020042739775
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_156
+  - first:
+      213: 6357307745595198311
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_157
+  - first:
+      213: 4948764856014892956
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_158
+  - first:
+      213: 1626955840139322858
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_159
+  - first:
+      213: -1076236932184032707
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_160
+  - first:
+      213: -6505031378029900924
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_161
+  - first:
+      213: 9018047889290874539
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_162
+  - first:
+      213: -3856006839317450467
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_163
+  - first:
+      213: -4452539457552179463
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_164
+  - first:
+      213: -6039884781955960800
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_165
+  - first:
+      213: -6786895175504572865
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_166
+  - first:
+      213: -2507507758929978421
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_167
+  - first:
+      213: 7899105868511888111
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_168
+  - first:
+      213: 6399727889176940752
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_169
+  - first:
+      213: -5550477233886272482
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_170
+  - first:
+      213: -5379579089584263478
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_171
+  - first:
+      213: -8043397341449063742
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_172
+  - first:
+      213: 4892946818474531575
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_173
+  - first:
+      213: -1938632540732708711
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_174
+  - first:
+      213: 4832245535900814261
+    second: NES - The Legend of Zelda - Title Screen & Story All Treasures_175
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +560,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,13 +569,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 1, y: 21, z: 259, w: 10}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -73,9 +601,105 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Title Screen & Story All Treasures_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 486
+        width: 257
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee17b6c9f9bfc80800000000000000
+      internalID: -8287855195078922512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Title Screen & Story All Treasures_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 485
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25137ad491adcd80800000000000000
+      internalID: -8228743283443821267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Title Screen & Story All Treasures_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd67144b141698f0800000000000000
+      internalID: -534217398457766460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Title Screen & Story All Treasures_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 486
+        width: 256
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51dedbccde6ea8b0800000000000000
+      internalID: -5139048230190919329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

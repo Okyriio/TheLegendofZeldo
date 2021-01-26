@@ -123,7 +123,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="GameManager.cs" t="Include" />
           <e p="LinkMovement.cs" t="Include" />
+          <e p="MusicManager.cs" t="Include" />
         </e>
       </e>
       <e p="FMODUnity.csproj" t="IncludeRecursive" />

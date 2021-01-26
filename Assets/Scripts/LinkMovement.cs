@@ -42,6 +42,7 @@ public class LinkMovement : MonoBehaviour
 
     private IEnumerator AttackCo()
     {
+        FMODUnity.RuntimeManager.PlayOneShot("event:/Actions/SwordAttack");
         _animator.SetBool("Attacking", (true));
         _currentState = PlayserState.Attack;
         yield return null;
